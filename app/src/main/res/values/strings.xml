@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AplikasiIslami</string>
+    <string name="nama_produk">Nama Produk</string>
+    <string name="nomor_sertifikat">No Sertifikat</string>
+    <string name="produsen">Produsen</string>
+    <string name="berkalu_hingga">Berlaku Hingga</string>
+    <string name="cari_produk">Cari Produk</string>
+    <string name="doa_harian">Doa Harian</string>
+    <string name="jadwal_sholat">Jadwal Sholat</string>
+    <string name="profile">Profile</string>
+    <string name="bayu_nur_cholis">BAYU NUR CHOLIS</string>
+    <string name="email">bhanoer1997@gmail.com</string>
+    <string name="ayat_pilihan">Ayat Pilihan</string>
+</resources>
